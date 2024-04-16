@@ -9,27 +9,3 @@
 
   Out current projects consist of "Codeine" (ROBLOX) and "Methamphetamine" (CS2) and we're expanding to other platforms
 </p>
-<hr />
-<p align="center">
-    </details>
-<details align="center" open>
-    <summary><b>GitHub Statistics</b></summary>
-    </br>
-    <a href="https://github.com/CodeineRoblox/">
-        <img src="https://komarev.com/ghpvc/?username=CodeineRoblox&color=red" />
-    </a>
-    </br>
-    <a href="https://github.com/CodeineRoblox/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeineRoblox&theme=dark" />
-    </a>
-    <br>
-    <a href="https://github.com/CodeineRoblox/">
-        <img src="https://github-readme-stats.vercel.app/api?username=CodeineRoblox&show_icons=true&theme=gruvbox" />
-    </a>
-    <br>
-    <a href="https://github.com/CodeineRoblox/">
-        <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeineRoblox&theme=gruvbox&langs_count=8&layout=compact" />
-    </a>
-    <br>
-    </p>
